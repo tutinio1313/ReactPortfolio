@@ -1,0 +1,102 @@
+{
+    "Objects": [
+        {
+            "parentID": "Header",
+            "Children": [
+                {
+                    "id": "subtext",
+                    "value": "Software Engineering Student"
+                }
+            ]
+        },
+        {
+            "parentID": "AboutMe",
+            "Children": [
+                {
+                    "id": "AboutMe1",
+                    "text": [
+                        {
+                            "id": "AboutMe1Title",
+                            "value": "About me."
+                        },
+                        {
+                            "id": "AboutMe1Text",
+                            "value": "Hi, it me, you know, Andres, but just call me Tuti, that gonna be easier for both. Now just let me introduce myself, I am 22 years old and I am studying at UTN in San Francisco, Córdoba, Argentina. <br> I am in the last steps before graduate, I am interested in videogames, movies, photography and music (specially post-punk)."
+                        }
+                    ]
+                },
+                {
+                    "id": "AboutMe2",
+                    "text": [
+                        {
+                            "id": "AboutMe2Title",
+                            "value": "Projects i Worked"
+                        },
+                        {
+                            "id": "AboutMe2Text",
+                            "value": "Well, I worked on a project doing the Login and making the backend with ASPNET, and I used the EntityFramework with an SQL database. <br> Also I Know JavaScript, If you take a look in my GitHub repos, you can see in DSTP1 (Sorry for that strange name, this is the abbreviation of subject and project), I used APIs and also I know how to use the DOM."
+                        }
+                    ]
+                },
+                {
+                    "id": "AboutMe3",
+                    "text": [
+                        {
+                            "id": "AboutMe3Title",
+                            "value": "My objetives."
+                        },
+                        {
+                            "id": "AboutMe2Text",
+                            "value": "My objetives in a short term is work for get some expirience and learn new technologies (mainly FrontEnd but I am also open to learn BackEnd)."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "parentID": "Knowledges",
+            "Children": [
+                {
+                    "id": "Knowledge1",
+                    "h1": "My knowledges.",
+                    "p": " think the most important of that kind of CV or portfolio is talk about my skills, if you are a recruiter I think is kinda obvious I know HTML, CSS and Tailwind, but there are some projects on C# and dotnet where I used it as an API and also using and MVC architecture with ASPNET."
+                }
+            ]
+        },
+        {
+            "parentID": "contact",
+            "Children": [
+                {
+                    "id": "StickyPaper",
+                    "value": "Contact me (●'◡'●)"
+                },
+                {
+                    "id": "header",
+                    "value": "A VERY FORMAL AND TOO SERIOUS LETTER"
+                },
+                {
+                    "id": "sent",
+                    "value": "sent!"
+                },
+                {
+                    "id": "Decoration",
+                    "value": "dont forget the sign :)"
+                }
+            ],
+            "StateExecutionMessages": [
+                {
+                    "id": "SubjectEmpty",
+                    "value": "Please write the subject before sent the letter."
+                },
+                {
+                    "id": "MessageEmpty",
+                    "value": "Please write the message before sent the letter."
+                },
+                {
+                    "id": "BothEmpty",
+                    "value": "Please write the subject and message before sent the letter."
+                }
+            ]
+        }
+    ]
+}
