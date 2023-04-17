@@ -1,8 +1,7 @@
 import React from "react";
-//import Internalization from '/src/InternalizationHandler.js';
-import  propTypes from 'prop-types';
+import SearchText from './InternalizationHandler.js';
 
-function Header(props)
+function Header()
 {
   return (
     <header className="bg-slate-50 rounded-md mt-5 mx-auto pt-3 sticky shadow-lg shadow-slate-600/30 z-10 bg-opacity-95">
@@ -12,7 +11,7 @@ function Header(props)
         <img id="logo" className="w-auto h-44 transition bg-slate-400 border-slate-800 border-4 pt-1 pb-0 px-1 duration-1000 filter saturate-0 rounded-full mx-auto hover:saturate-100" src="/media/me.png" alt="Me, My photo, Selfie"/>
         <div className="container">
           <h1 className="text-lg text-center" id="meText">Andrés Rossini 🇦🇷</h1>
-          <h2 className="text-sm text-center transition-all">{/*Internalization.SearchText({props}.Language, "Header", "subtext")*/}</h2>
+          <h2 className="text-sm text-center transition-all">{SearchText("HeaderSubtext")}</h2>
           <hr className="w-1/6 h-1 md:w-1/12 mx-auto bg-slate-800 filter saturate-50"></hr>
         </div>
       </div>
@@ -50,10 +49,5 @@ function Header(props)
     </header>
   );
 }
-
-Header.propTypes = {
-  Language : propTypes.array,
-}
-
 
 export default Header;
