@@ -1,0 +1,67 @@
+
+[
+    {
+        "id": "HeaderSubtext",
+        "value": "Estudiante de Ingenieria en Sistemas"
+    },
+    {
+        "id": "AboutMe1Title",
+        "value": "Un poco de mi."
+    },
+    {
+        "id": "AboutMe1Text",
+        "value": "Hola me llamo Andrés, pero podés llamarme. Dejame contarme un poco de mi, Tengo 23 años y soy un estudiante en la UTN de San Francisco, Córdoba, Argentina. \n Estoy en los ultimos de mi carrera y estoy interesado en el desarrollo web y otras tecnologias :)."
+    },
+    {
+        "id": "AboutMe2Title",
+        "value": "Proyectos"
+    },
+    {
+        "id": "AboutMe2Text",
+        "value": "Los proyectos que he realizado fueron con autenticación y validaciones mediante ASPNET, y un persistencia de EntityFramework con bases de datos SQL.\n Además se sobre JavaScript, sí le das un vistazo a mis repositorios en GitHub,podrás ver como consumí APIs y un manejo del DOM, además este Portfolio esta realizado con React."
+    },
+    {
+        "id": "AboutMe3Title",
+        "value": "Mis metas."
+    },
+    {
+        "id": "AboutMe3Text",
+        "value": "My objetives in a short term is work for get some expirience and learn new technologies (mainly FrontEnd but I am also open to learn BackEnd)."
+    },
+    {
+        "id": "KnowledgeTitle",
+        "value": "Mi conocimiento."
+    },
+    {
+        "id": "KnowledgeText",
+        "value": "think the most important of that kind of CV or portfolio is talk about my skills, if you are a recruiter I think is kinda obvious I know HTML, CSS and Tailwind, but there are some projects on C# and dotnet where I used it as an API and also using and MVC architecture with ASPNET."
+    },
+    {
+        "id": "StickyPaper",
+        "value": "Contactame (●'◡'●)"
+    },
+    {
+        "id": "ContactMeHeader",
+        "value": "A VERY FORMAL AND TOO SERIOUS LETTER"
+    },
+    {
+        "id": "HeaderSent",
+        "value": "¡Enviado!"
+    },
+    {
+        "id": "HeaderDecoration",
+        "value": "No te olvides de firmar :)"
+    },
+    {
+        "id": "StateExecutionSubjectEmpty",
+        "value": "Oops, parece que te olvidaste de escribir el asunto."
+    },
+    {
+        "id": "StateExecutionMessageEmpty",
+        "value": "Oops, parece que te olvidaste de escribir el mensaje."
+    },
+    {
+        "id": "StateExecutionBothEmpty",
+        "value": "Oops, parece que te olvidaste de escribir el asunto y el mensaje."
+    }
+    ]

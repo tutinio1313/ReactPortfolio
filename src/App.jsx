@@ -1,6 +1,9 @@
 import React from 'react';
 import Header from "./Components/Header.jsx";
 import AboutMe from "./Components/AboutMe.jsx";
+import Knowledge from "./Components/Knowledge.jsx";
+import ContactMe from "./Components/ContactMe.jsx";
+import Footer from "./Components/Footer.jsx";
 
 function App()
 {
@@ -17,7 +20,12 @@ function App()
           <AboutMe id="2"/>
           <AboutMe id="3"/>
         </div>
-      </div>
+
+        <Knowledge/>
+        <ContactMe/>
+        </div>
+
+        <Footer/>
     </div>
   );
 }

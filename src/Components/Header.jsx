@@ -1,5 +1,5 @@
 import React from "react";
-import SearchText from './InternalizationHandler.js';
+import SearchText from '/src/InternalizationHandler.js';
 
 function Header()
 {
@@ -23,7 +23,7 @@ function Header()
               className="transition duration-300 hover:text-slate-400"
               href="#AboutMe"
             >
-              About me
+              {SearchText("AboutMe1Title")}
             </a>
           </li>
           <li className="outline-dotted w-11/12 mx-auto my-0.5">
@@ -31,7 +31,7 @@ function Header()
               className="transition duration-300 hover:text-slate-400"
               href="#Knowledges"
             >
-              My knowlegdes
+              {SearchText("KnowledgeTitle")}
             </a>
           </li>
           <li className="outline-dotted w-11/12 mx-auto my-0.5">
@@ -39,7 +39,7 @@ function Header()
               className="transition duration-300 hover:text-slate-400"
               href="#contact"
             >
-              Contact me.
+              {SearchText("ContactMe")}
             </a>
           </li>
         </ul>

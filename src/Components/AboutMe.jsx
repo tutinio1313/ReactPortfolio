@@ -1,5 +1,5 @@
 import React from "react";
-import SearchText from './InternalizationHandler.js';
+import SearchText from '/src/InternalizationHandler.js';
 import  propTypes from 'prop-types';
 
 function AboutMe(props)
