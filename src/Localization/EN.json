@@ -1,71 +1,74 @@
-
 [
-{
-    "id": "HeaderSubtext",
-    "value": "Software Engineering Student"
-},
-{
-    "id": "AboutMe1Title",
-    "value": "About me."
-},
-{
-    "id": "AboutMe1Text",
-    "value": "Hi, it me, you know, Andres, but just call me Tuti, that gonna be easier for both. Now just let me introduce myself, I am 23 years old and I am studying at UTN in San Francisco, Córdoba, Argentina. \n I am in the last steps before graduate, I am interested in videogames, movies, photography and music (specially post-punk)."
-},
-{
-    "id": "AboutMe2Title",
-    "value": "Projects i Worked"
-},
-{
-    "id": "AboutMe2Text",
-    "value": "Well, I worked on a project doing the Login and making the backend with ASPNET, and I used the EntityFramework with an SQL database.\n Also I Know JavaScript, If you take a look in my GitHub repos, you can see in DSTP1 (Sorry for that strange name, this is the abbreviation of subject and project), I used APIs and also I know how to use the DOM. Right now I am learning about React, this portfolio was remaked with this Technology."
-},
-{
-    "id": "AboutMe3Title",
-    "value": "My objetives."
-},
-{
-    "id": "AboutMe3Text",
-    "value": "My objetives in a short term is work for get some expirience and learn new technologies (mainly FrontEnd but I am also open to learn BackEnd)."
-},
-{
-    "id": "KnowledgeTitle",
-    "value": "My knowledges."
-},
-{
-    "id": "KnowledgeText",
-    "value": "think the most important of that kind of CV or portfolio is talk about my skills, if you are a recruiter I think is kinda obvious I know HTML, CSS and Tailwind, but there are some projects on C# and dotnet where I used it as an API and also using and MVC architecture with ASPNET."
-},
-{
-    "id": "StickyPaper",
-    "value": "Contact me (●'◡'●)"
-},
-{
-    "id" : "ContactMe",
-    "value" : "Contact me"
-},
-{
-    "id": "ContactMeHeader",
-    "value": "A VERY FORMAL AND TOO SERIOUS LETTER"
-},
-{
-    "id": "HeaderSent",
-    "value": "sent!"
-},
-{
-    "id": "HeaderDecoration",
-    "value": "dont forget the sign :)"
-},
-{
-    "id": "StateExecutionSubjectEmpty",
-    "value": "Please write the subject before sent the letter."
-},
-{
-    "id": "StateExecutionMessageEmpty",
-    "value": "Please write the message before sent the letter."
-},
-{
-    "id": "StateExecutionBothEmpty",
-    "value": "Please write the subject and message before sent the letter."
-}
+    {
+        "id": "HeaderSubtext",
+        "value": "Software Engineering Student"
+    },
+    {
+        "id": "AboutMe1Title",
+        "value": "About me."
+    },
+    {
+        "id": "AboutMe1Text",
+        "value": "Hi, it me, you know, Andres, but just call me Tuti, that gonna be easier for both. Now just let me introduce myself, I am 23 years old and I am studying at UTN in San Francisco, Córdoba, Argentina. \n I am in the last steps before graduate, I am interested in videogames, movies, photography and music (specially post-punk)."
+    },
+    {
+        "id": "AboutMe2Title",
+        "value": "Projects i Worked"
+    },
+    {
+        "id": "AboutMe2Text",
+        "value": "Well, I worked on a project doing the Login and making the backend with ASPNET, and I used the EntityFramework with an SQL database.\n Also I Know JavaScript, If you take a look in my GitHub repos, you can see in DSTP1 (Sorry for that strange name, this is the abbreviation of subject and project), I used APIs and also I know how to use the DOM. Right now I am learning about React, this portfolio was remaked with this Technology."
+    },
+    {
+        "id": "AboutMe3Title",
+        "value": "My objetives."
+    },
+    {
+        "id": "AboutMe3Text",
+        "value": "My objetives in a short term is work for get some expirience and learn new technologies (mainly FrontEnd but I am also open to learn BackEnd)."
+    },
+    {
+        "id": "KnowledgeTitle",
+        "value": "My knowledges."
+    },
+    {
+        "id": "KnowledgeText",
+        "value": "think the most important of that kind of CV or portfolio is talk about my skills, if you are a recruiter I think is kinda obvious I know HTML, CSS and Tailwind, but there are some projects on C# and dotnet where I used it as an API and also using and MVC architecture with ASPNET."
+    },
+    {
+        "id": "StickyPaper",
+        "value": "Contact me (●'◡'●)"
+    },
+    {
+        "id": "ContactMeHeader",
+        "value": "A VERY FORMAL AND TOO SERIOUS LETTER"
+    },
+    {
+        "id": "ContactMeSubject",
+        "value": "Subject..."
+    },
+    {
+        "id": "ContactMeMessage",
+        "value": "Your message..."
+    },
+    {
+        "id": "HeaderSent",
+        "value": "sent!"
+    },
+    {
+        "id": "HeaderDecoration",
+        "value": "dont forget the sign :)"
+    },
+    {
+        "id": "StateExecutionSubjectEmpty",
+        "value": "Please write the subject before sent the letter."
+    },
+    {
+        "id": "StateExecutionMessageEmpty",
+        "value": "Please write the message before sent the letter."
+    },
+    {
+        "id": "StateExecutionBothEmpty",
+        "value": "Please write the subject and message before sent the letter."
+    }
 ]

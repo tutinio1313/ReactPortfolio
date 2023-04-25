@@ -39,7 +39,7 @@ function Header()
               className="transition duration-300 hover:text-slate-400"
               href="#contact"
             >
-              {SearchText("ContactMe")}
+              {SearchText("StickyPaper")}
             </a>
           </li>
         </ul>

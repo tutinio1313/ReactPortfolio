@@ -1,4 +1,3 @@
-
 [
     {
         "id": "HeaderSubtext",
@@ -26,7 +25,7 @@
     },
     {
         "id": "AboutMe3Text",
-        "value": "My objetives in a short term is work for get some expirience and learn new technologies (mainly FrontEnd but I am also open to learn BackEnd)."
+        "value": "Mi objectivo al corto plazo es aprender más sobre el desarrollo web, principalmente sobre FrontEnd y abierto a otras cosas."
     },
     {
         "id": "KnowledgeTitle",
@@ -34,7 +33,7 @@
     },
     {
         "id": "KnowledgeText",
-        "value": "think the most important of that kind of CV or portfolio is talk about my skills, if you are a recruiter I think is kinda obvious I know HTML, CSS and Tailwind, but there are some projects on C# and dotnet where I used it as an API and also using and MVC architecture with ASPNET."
+        "value": "Poseo una buena base como Junio en frontend sabiendo las cosas necesarias de HTML,CSS, JavaScript y librerias de estilos como Bootstrap o Tailwind. \n No solamente eso, además poseo conocimientos en Backend especificamente con DOTNET donde creé APIs y use MVC para mostrar contenido, además de Blazor para el renderizado de componentes."
     },
     {
         "id": "StickyPaper",
@@ -43,6 +42,14 @@
     {
         "id": "ContactMeHeader",
         "value": "A VERY FORMAL AND TOO SERIOUS LETTER"
+    },
+    {
+        "id": "ContactMeSubject",
+        "value": "Asunto..."
+    },
+    {
+        "id": "ContactMeMessage",
+        "value": "Tu mensaje..."
     },
     {
         "id": "HeaderSent",
@@ -64,4 +71,4 @@
         "id": "StateExecutionBothEmpty",
         "value": "Oops, parece que te olvidaste de escribir el asunto y el mensaje."
     }
-    ]
+]
