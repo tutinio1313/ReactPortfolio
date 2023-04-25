@@ -7,9 +7,6 @@ import Footer from "./Components/Footer.jsx";
 
 function App()
 {
-  console.log(Header);
-  console.log(AboutMe);
-
   return (
     <div>
       <Header/>
