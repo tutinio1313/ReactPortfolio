@@ -1,5 +1,9 @@
 [
     {
+        "id" : "Title",
+        "value" : "Andrés Rossini - ¡Mi portafolio!"
+    },
+    {
         "id": "HeaderSubtext",
         "value": "Estudiante de Ingenieria en Sistemas"
     },

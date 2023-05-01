@@ -1,5 +1,9 @@
 [
     {
+        "id" : "Title",
+        "value" : "Andrés Rossini - My portfolio!"
+    },
+    {
         "id": "HeaderSubtext",
         "value": "Software Engineering Student"
     },
